@@ -1,8 +1,10 @@
 # pandas-challenge-1
 HW_Module_4
-# We have our best sales from our best customer Kendra Garret with a sales profit of $36.58 millons with margin profit of 44.46%.
+#  We had our best sales from our best customer, Kendra Garret, with a profit of $36.58 million and a margin of 44.46%.
 
-![Best_customer](Best_customer_24741.png)
+# on the customer 33615 as the lower fifth  customer with a margin of 26.2 % and a total profit of $2.2 M
+
+![Best_customer](Best_customer_24741_.png)
 
 ![Sales_summary](summary_sales.png)
 
